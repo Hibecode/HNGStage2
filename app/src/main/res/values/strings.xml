@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HNG_Stage2</string>
+    <string name="username" />
+    <string name="fullname" />
+    <string name="email" />
+    <string name="country" />
+</resources>
