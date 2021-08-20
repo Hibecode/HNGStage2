@@ -1,5 +1,5 @@
 # HNGStage2
-Mobile app for HNGi8 x I4G Stage 2
+Mobile app and Print name program for HNGi8 x I4G Stage 2
 
 
 
